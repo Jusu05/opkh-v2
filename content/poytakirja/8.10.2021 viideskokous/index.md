@@ -12,7 +12,7 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/viides-kokous"
+url: "/viides-kokous-2021"
 ---
 {{< toc >}}
 

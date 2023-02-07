@@ -12,7 +12,7 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/neljas-kokous"
+url: "/neljas-kokous-2021"
 ---
 
 Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 17.8.2021

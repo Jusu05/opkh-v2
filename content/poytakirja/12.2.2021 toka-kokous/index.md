@@ -12,7 +12,7 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/toka-kokous"
+url: "/toka-kokous-2021"
 ---
 {{< toc >}}
 

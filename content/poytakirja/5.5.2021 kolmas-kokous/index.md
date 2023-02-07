@@ -12,7 +12,7 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/kolmas-kokous"
+url: "/kolmas-kokous-2021"
 ---
 {{< toc >}}
 

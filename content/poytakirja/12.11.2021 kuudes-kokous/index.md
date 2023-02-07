@@ -12,7 +12,7 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/kuudes-kokous"
+url: "/kuudes-kokous-2021"
 ---
 {{< toc >}}
 
