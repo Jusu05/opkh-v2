@@ -7,7 +7,7 @@ summary: Helluradioon ehdotuksia sekä soitettujen biisien lista.
 draft: false
 featured: false
 authors:
-  - tony
+  - Tony
 url: /radio
 categories:
   - post
