@@ -1,7 +1,7 @@
 ---
 title: 2. kokous 8.2.2023
 subtitle: 
-date: 2023-02-01T12:14:51.063Z
+date: 2023-02-08T15:33:00.063Z
 summary: "Ensimmäinen kokous 22.1.2021"
 draft: false
 featured: false
