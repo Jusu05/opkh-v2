@@ -1,5 +1,5 @@
 ---
-title: 2. kokous 1.3.2023
+title: 3. kokous 1.3.2023
 subtitle: 
 date: 2023-03-01T15:41:00.063Z
 summary: "Kolmas kokous 1.3.2023"
