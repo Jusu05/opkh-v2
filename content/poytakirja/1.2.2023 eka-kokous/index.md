@@ -2,7 +2,7 @@
 title: 1. kokous 1.2.2023
 subtitle: 
 date: 2023-02-01T12:14:51.063Z
-summary: "Ensimmäinen kokous 22.1.2021"
+summary: "Ensimmäinen kokous 2.1.2023"
 draft: false
 featured: false
 image:
