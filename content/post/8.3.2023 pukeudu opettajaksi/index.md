@@ -7,7 +7,7 @@ draft: false
 featured: false
 authors:
   - Juuso
-url: /ystavanpaiva2023
+url: /pukeuduopettajaksi2023
 categories:
   - post
 image:
