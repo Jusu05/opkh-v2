@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Tapahtumavastaava
+role: SLL-vastaava
 
 # Organizations/Affiliations
 #organizations:
@@ -61,8 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Tapahtumavastaavat
+- Viestitätiimi
 ---
-Hejssan!! Nimeni on Fatima ja olen 21A luokalta. Koulussa minut löytää usein haahuilemasta käytävillä tai pingispöydän ääreltä. Vapaa-ajallani luen kirjoja, leivon kaikkea jänskää ja vietän aikaa perheen kanssa. 
+Hejssan!! Nimeni on Fatima ja olen 21A luokalta. Koulussa minut löytää usein haahuilemasta käytävillä tai pingispöydän ääreltä. Vapaa-ajallani luen kirjoja, leivon kaikkea jänskää ja vietän aikaa perheen kanssa.
 
 "To infinity and beyond!" - Buzz Lightyear, vuonna nakki ja makkara

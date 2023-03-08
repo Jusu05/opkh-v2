@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Tapahtumavastaava
+role: Varapuheenjohtaja
 
 # Organizations/Affiliations
 #organizations:
@@ -61,6 +61,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Tapahtumavastaavat
+- Varapuheenjohtaja
 ---
-Moi! Mä oon Amina Awad ja yks uusista tapahtumavastaavist. 🤪 Mun rooliin kuuluu mm huikeitten tapahtumien järjestäminen ja niiden organisointi.

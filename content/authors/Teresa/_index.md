@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Emil Jacobsson
+title: Teresa Mietunen
 
 # Username (this should match the folder name)
 authors:
-- emil
+- Terasa
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: SLL-vastaava
+role: Taloudenhoitaja
 
 # Organizations/Affiliations
 #organizations:
@@ -45,7 +45,7 @@ interests:
 #  link: 
 #- icon: snapchat
 #  icon_pack: fab
- # link: 
+#  link:  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,5 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- SLL-vastaava
+- Taloudenhoitaja
 ---
+Moikku, oon Teresa opiskelijakunnan taloudenhoitaja ja pyöritän yleisesti raha-asioita puheenjohtajan kaa! Oon myös
+opiskelijakunnan ainoo yliabi ja keskityn yliabien ja abien hyvinvoinnista huolehtimiseen. :)
+Pyörin Hellun käytävillä yleensä kissapipo päällä, tulkaa vetämään hihasta :D

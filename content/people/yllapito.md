@@ -3,37 +3,20 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: people
 
+# Activate this widget? true/false
+active: true
+
 # This file represents a page section.
 headless: true
 
-active: true
-
 # Order that this section appears on the page.
-weight: 30
+weight: 70
 
-title: Opiskelijakunnan hallitus
-
-authors:
-- Admin
+title: Nettisivun ylläpito
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-  - Puheenjohtaja
-  - Varapuheenjohtaja
-  - Taloudenhoitaja
-  - Sihteeri
-  - Viestitätiimi
-  - SLL-vastaava
-  - Tapahtumatiimi
-
-
-
-design:
-  show_interests: false
-  show_role: true
-  show_social: true
-  show_organizations: true
-
+  user_groups: 
+    - yllapito
 ---
