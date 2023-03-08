@@ -25,7 +25,6 @@ image:
 
 Alkutapaaminen on **keskiviikkona 25.8. klo 14.45 kirjastossa.** Tapaamisessa lyödään lukkoon kerhon ajankohta ja ehkä ehditään tekemään joitain tehtäviäkin. Tervetuloa!  
 
-
 Kerhon tarkoitus on yhdistää matematiikasta kiinnostuneita ja innostuneita ihmisiä, jotka haluavat syventää osaamistaan muiden innostuneiden ihmisten kanssa. Kerholla on vastuuhenkilö, mutta hän vastaa pääasiassa tehtävien riittävästä määrästä ja mukavan raikkaasta vaikeusasteesta. Muutkin saavat etsiä haastavia tai kiehtovia tehtäviä yhdessä tehtäväksi. Kerholla ei ole varsinaista vetäjää tai opettajaa, joka auttaisi tehtävien ratkaisemisessa, vaan osallistujat pähkäilevät tehtäviä yhdessä miettien ja keskustellen.  
 
 Kerhon pohjatiedoksi riittää peruskoulun oppimäärä. Suositeltavaa on kuitenkin myös tuntea kurssit MAA02–MAA05 ja MAA11 (LOPS 2016), sillä nämä tarjoavat laskurutiinia, menetelmiä, kokemusta ja lauseita, joita peruskoulusta ei saa, ellei ole vapaa-ajan harrastaja. Oman osaamisen riittävyyttä ei tarvitse pelätä jos muuten on kiinnostunut osallistumaan, koska kerhossa pyritään etsimään sopivan haastavia tehtäviä ja kohottamaan omaa osaamista.  
@@ -36,4 +35,3 @@ Kerhon tarkoitus on kuitenkin tutustua yhdessä matematiikkaan ja jos löytyy mu
 Kerhoon osallistuminen ei ole sitovaa. Tämä tarkoittaa sitä, että joka kerralle ei tarvitse osallistua, jos sinulla ei ole aikaa sille. Lisäksi kerho on avoinna kaikille kiinnostuneille myös “kesken” lukukauden.
 
 ![matikkaklubi](Näyttökuva-2021-08-20-152241.webp "Esimerkkitehtäviä:")
-

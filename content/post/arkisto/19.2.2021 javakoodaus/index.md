@@ -22,10 +22,10 @@ links:
 url: "/java"
 ---
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-<iframe 
-src="https://www.loom.com/embed/55fa2974fa8e4a12a2c4cf3fe06142a7" 
-loading="lazy" 
-frameborder="0" 
+<iframe
+src="https://www.loom.com/embed/55fa2974fa8e4a12a2c4cf3fe06142a7"
+loading="lazy"
+frameborder="0"
 webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <br>
@@ -35,8 +35,9 @@ https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot
 
 {{< figure src="Näyttökuva 2021-02-19 144925.webp" lightbox="false" >}}
 
-### Ohjeet vielä kirjallisesti:  
-**1. Poista edellinen Java-versio tietokoneesta**   
+### Ohjeet vielä kirjallisesti
+
+**1. Poista edellinen Java-versio tietokoneesta**
 Mene ohjauspaneeliin ja paina "poista asennettu ohjelma"
 {{< figure src="Näyttökuva 2021-02-21 190808.webp">}}
 
@@ -56,4 +57,3 @@ Valmista! Kokeile nyt pyörittämään testit koodillesi! Niiden pitäisi toimia
 Jos et saanut toimimaan pelkillä kirjallisilla ohjeilla, katso ohjevideo joka löytyy sivun yläosasta.  
 Jos sekään ei auttanut, ota yhteyttä Telegram DMs:  
 [https://t.me/mangoflamingo](https://t.me/mangoflamingo/)
-

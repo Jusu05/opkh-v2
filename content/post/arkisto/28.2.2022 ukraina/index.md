@@ -25,4 +25,4 @@ Tuellasi Punainen Risti jakaa apua taistelujen keskelle: Ruokaa, lääkkeitä ja
 Lahjoittaa voi myös netin kautta.
 https://www.punainenristi.fi/lahjoita/katastrofirahasto  
 
-Kiitos! 💙💛 
+Kiitos! 💙💛

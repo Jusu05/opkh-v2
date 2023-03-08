@@ -19,7 +19,7 @@ On aika perinteiselle teemaviikolle! Kullekin päivälle on määritetty oma puk
 Maanantai:
 Pukeudu tyylimokaksi! Anna luovuutesi valloilleen, mitä isompi tyylimoka sitä parempi!
 
-Tiistai: 
+Tiistai:
 Pukeudu rantatyyliin! Hakuna matata, ei huolen häivää. Kuvittele olevasi ihanalla ja lämpimällä rannalla, siemailemassa Pina Colladaa ja katselevan laskevaa aurinkoa.
 
 Keskiviikko:

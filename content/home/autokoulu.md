@@ -30,5 +30,4 @@ design:
 <a href="https://www.epicautokoulu.fi/helsinki" target="_blank">
 {{< figure src="epic_autokoulu-2020.webp" lightbox="false" width="30%"  >}}</a>
 
-
 </center>

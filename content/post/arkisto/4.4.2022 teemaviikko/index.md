@@ -21,11 +21,9 @@ url: "/teemaviikko-huhtikuu"
 Maanantai: liikennevalopäivä
 Näytä kaikille mitä mietit sanomatta;)  
 
-
 Tiistai: horoskooppipäivä
 Kaikkia kiinnostaa horoskooppisi joten
 näytä helluille todellinen luonteesi  
-
 
 Keskiviikko: naamiaisasupäivä
 pukeudu joksikin hahmoksi  
@@ -34,4 +32,3 @@ Torstai: dress as your type
 laitappa ihastuksesi vaatteet päälle ja
 katso huomaako hän loputtoman
 rakkautesi.
-

@@ -19,25 +19,24 @@ image:
 {{< figure src="featured.png" width="75%">}}
 {{< figure src="Teemaviikko (1).png" width="75%">}}
 
-
 Seuraava viikko saakin vähän twistiä, kun järjestetään pukeutumisen teemaviikko! Jokaiselle päivälle on määritetty oma, erityislaatuinen pukukoodinsa!
 
-### Maanantai:
+### Maanantai
 
 Maanantai on sinulle kuin uusi päivä! Pukeudu jollain aivan uudella tyylillä, jota ei voisi itseltäsi nyt edes kuvitella!
 
-### Tiistai:
+### Tiistai
 
 Tiistaina järjestetään jo pitkään toivottu liikennevalopäivä! Pukeudu omaa tilannettasi parhaiten kuvaavaan väriin. Tänä vuonna liikennevalopäivässä on osana myös jokeriväri, joka julkistetaan vasta kun koulu aamulla aukeaa.
 
-### Keskiviikko:
+### Keskiviikko
 
 Keskiviikkona on ristiinpukeutumispäivä. Osallistu siis avoimin mielin tähän tapahtumaan, sillä OPKH myös palkitsee niitä, jotka ottavat tämän päivän todesta
 
-### Torstai:
+### Torstai
 
 Torstaina muistelemme pitkää etäopetusjaksoa etäkoulupäivällä! Pukeudu tavalliseen etäkouluasuusi - mutta muista että nyt kamera on todella päällä!
 
-### Perjantai:
+### Perjantai
 
 Kunnioittakaamme edesmennyttä opiskelijaa halutessamme siistillä tummalla vaatetuksella tai muulla kunnioittavalla pukeutumisella. Osaanotot opiskelijan läheisille ja ystäville kaikkien luonnontiedelukion opiskelijoiden ja työntekijöiden puolesta!

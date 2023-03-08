@@ -19,7 +19,7 @@ image:
 
 Oletko aina halunnut esitellä omaa kulttuurisia muille? Jos niin, osallistu Hellun kulttuuripäivään!
 
-Kulttuuripäivänä saat pukeutua omaa kulttuuriperintöä kunnioittaen. Voit pukeutua ihan miten haluat, olipa upea asu pelkkä pelipaita tai kokonainen kansallispuku. Kulttuuripäivä pidetään 2.12., joten muista valmistella asusi siihen mennessä. 
+Kulttuuripäivänä saat pukeutua omaa kulttuuriperintöä kunnioittaen. Voit pukeutua ihan miten haluat, olipa upea asu pelkkä pelipaita tai kokonainen kansallispuku. Kulttuuripäivä pidetään 2.12., joten muista valmistella asusi siihen mennessä.
 
 Päivänä pidetään runway, jossa halukkaat voivat esitellä asujaan muille ja jopa pitää pienen esityksen. Jälkeenpäin voit esitellä kulttuuriasi opkh:n Instagramissa. Vastaanotamme myös kulttuureihin liittyviä julisteita, joita kiinnitetään seinälle käytäviin muiden katsottavaksi. Jos haluat osallistua näihin, ilmoittaudu lomakkeella 29.11. mennessä: https://forms.gle/ewf8LsxYTtuarqZw8 Toivomme monia ilmoittautuneita, jotta saamme aikaan hienon kulttuuripäivän.
 

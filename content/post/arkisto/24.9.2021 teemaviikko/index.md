@@ -26,25 +26,17 @@ image:
 
 Maanantaina pukeudeumme urheilullisesti, mutta vapaasti. Osallistu kouluun esimerkiksi lempijalkapallojoukkueesi paidassa tai muuten vain rennosti. Liikkuminen lisää hyvinvointia!
 
-
-
 **Tiistai:**
 
 Tiistain twistissä pääset pukeutumaan kuten omat vanhempasi! Nappaa kaapista siis retroimmat tai muuten parhaiten kuvaavat kuteet!
-
-
 
 **Keskiviikko:**
 
 Nykyään jokainen voi olla julkkis, myös sinä! Voit imitoida esimerkiksi lempinäyttelijääsi tai muuten kuuluisia henkilöitä.
 
-
-
 **Torstai:**
 
 Torstaina Hellussa järjestetään kuvitteellinen YO-kirjoitusten päätösjuhla. Pukeudu siis parhaimpiisi, sillä kaikki on kutsuttu mukaan!
-
-
 
 **Perjantai:**
 

@@ -20,7 +20,6 @@ image:
 
 Tee ja lähetä rakkauskirjeitä 2. kerroksen aulassa. Kirjeet toimitetaan perille loman jälkeisessä ro-tuokiossa
 
-
 Kerää halipassiisi nimiä. Halipasseja voit tehdä 2. kerroksen aulassa.
 
 Muista pukeutua väriteeman mukaisesti. Laita päälle punaista, valkoista ja vaaleanpunaista!

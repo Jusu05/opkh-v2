@@ -16,8 +16,8 @@ design:
   spacing:
     padding: ["80x", "0", "80px", "0"]
 ---
-Helsingin luonnontiedelukiossa toimii opiskelijakunta, johon kuuluvat kaikki lukion opiskelijat. Opiskelijakunnan käytännön toimintaa hoitaa opiskelijakunnan hallitus. Hallituksen jäsenet valitaan syksyisin järjestettävällä vaalilla, asiasta tulee lisätietoa ennen vaaleja, kuka tahansa Hellun opiskelija voi hakea hallitukseen mukaan. Hallituksen muodostavat puheenjohtaja, sihteeri ja tilintarkastaja sekä muut jäsenet. 
+Helsingin luonnontiedelukiossa toimii opiskelijakunta, johon kuuluvat kaikki lukion opiskelijat. Opiskelijakunnan käytännön toimintaa hoitaa opiskelijakunnan hallitus. Hallituksen jäsenet valitaan syksyisin järjestettävällä vaalilla, asiasta tulee lisätietoa ennen vaaleja, kuka tahansa Hellun opiskelija voi hakea hallitukseen mukaan. Hallituksen muodostavat puheenjohtaja, sihteeri ja tilintarkastaja sekä muut jäsenet.
 
-Opiskelijakunnan hallituksen tehtävänä on suunnitella ja edistää opiskelijoiden yhteistoimintaa ja koulutyötä. Tavoitteena on luoda kouluun myönteistä ilmapiiriä ja valvoa opiskelijoiden etua kouluyhteisössä. Muita tehtäviä ovat erilaisten juhlatilaisuuksien ja teemapäivien suunnittelu, opiskelijakunnan talouden hoito ja tarvittaessa yhteydenpito Suomen lukiolaisten liittoon. 
+Opiskelijakunnan hallituksen tehtävänä on suunnitella ja edistää opiskelijoiden yhteistoimintaa ja koulutyötä. Tavoitteena on luoda kouluun myönteistä ilmapiiriä ja valvoa opiskelijoiden etua kouluyhteisössä. Muita tehtäviä ovat erilaisten juhlatilaisuuksien ja teemapäivien suunnittelu, opiskelijakunnan talouden hoito ja tarvittaessa yhteydenpito Suomen lukiolaisten liittoon.
 
 https://www.hel.fi/heltiedelu/fi

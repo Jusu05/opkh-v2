@@ -26,7 +26,8 @@ Tietoja voidaan käsitellä EU:n ja EEA:n ulkopuolella. Tämä johtuu siitä, et
 
 Kerättyjä tietoja käytetään vain analytiikkaan, sivuston toiminnan takaamiseksi, markkinointiin sekä käyttäjäkokemuksen parantamiseksi.
 
-Kolmannen osapuolen palvelut sivustolla:
+Kolmannen osapuolen palvelut sivustolla:¨
+
 - Statcounter (analytics)
 - Google Analytics (analytics)
 - Leadfeeder (lead generation)
@@ -35,6 +36,7 @@ Kolmannen osapuolen palvelut sivustolla:
 - Clearbit (lead generation)
 
 Sivuston toiminnallisuuden kannalta tarpeelliset evästeet:
+
 - Cloudflare (Palvelin) (tarpeellinen)
 - Google Maps (kartta) (tarpeellinen)
 - Netlify (Back-end server) (tarpeellinen)
@@ -44,6 +46,7 @@ Sivuston toiminnallisuuden kannalta tarpeelliset evästeet:
 - Typeform (lomake) (tarpeellinen)
 
 Kerätyt tiedot jos käyttäjä sallii evästeet:
+
 - Käyntikerrat
 - Virhelokit
 - Mitä opkh.fi sivuja selaat

@@ -22,6 +22,5 @@ url: "/legal"
 
 ### [Avoimen lähdekoodin lisenssit](/licenses)
 
-
-
   <div data-service="youtube" data-id="on9TXY8kYyk" data-autoscale></div>
+  

@@ -37,7 +37,8 @@ Linkki on tälläinen: https://helsinki.inschool.fi/schedule/export/students/_61
 Valmis linkki, joka näyttää 150 päiväksi eteenpäin olisi: https://helsinki.inschool.fi/schedule/export/students/_617024_/Wilma.ics?token=######################&p=28&f=150&tstamp=1635587521
 
 ### 7. Google kalenteri
-Mene osoitteeseen: https://calendar.google.com/    
+
+Mene osoitteeseen: https://calendar.google.com/
 
 Klikkaa plus-merkkiä
 ![Wilma](Näyttökuva2021-10-30125044-min.png)
@@ -45,10 +46,11 @@ Klikkaa "from URL"
 ![Wilma](fromurl.png)
 Klikkaa "Add calendar"
 ![Wilma](Näyttökuva2021-10-30131100.png)
-Tadaa! 
+Tadaa!
 ![Wilma](Näyttökuva2021-10-30125248-min.png)
 
 ### 8. Microsoft Outlook
+
 Mene osoitteeseen: https://outlook.office.com/  
 Paina vasemmasta kulmasta kalenterinappulaa.
 ![wilma](calendar.png)
@@ -63,6 +65,7 @@ Valmista!
 ![wilma](CalendarTony(4).png)
 
 ### 9. iPhone
+
 ![wilma](ios.png)
 https://support.apple.com/fi-fi/guide/iphone/iph3d1110d4/ios  
 

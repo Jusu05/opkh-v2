@@ -19,4 +19,3 @@ image:
 Ensi tiistaina Hellussa vietetään pehmolelupäivää! Muista siis tuoda lempinallesi mukaan kouluun, ja tehdään koulusta vähän pehmoisempi paikka. 🧸
 
 Kahden viikon päästä on tulossa myös toinen yllätyksellinen teemapäivä, josta laitetaan infoa lähempänä.
-
