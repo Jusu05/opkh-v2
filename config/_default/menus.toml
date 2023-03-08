@@ -24,11 +24,6 @@
   weight = 32
 
 [[main]]
-  name = "Meemit"
-  url = "/meemit"
-  weight = 45
-
-[[main]]
   name = "Meistä"
   url = "/meista"
   weight = 45
