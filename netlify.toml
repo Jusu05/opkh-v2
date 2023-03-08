@@ -26,10 +26,6 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "/tony"
-  to = "/authors/tony/"
-
-[[redirects]]
   from = "/kirjat"
   to = "/Oppimateriaalit_2021_-_2022.pdf"
 
@@ -37,10 +33,4 @@
   from = "/jono"
   to = "https://airtable.com/shr1tvujFklaPydck"
 
-[[redirects]]
-  from = "/love"
-  to = "https://love.opkh.fi/"
 
-[[redirects]]
-  from = "/kulttuuriilmo"
-  to = "https://forms.gle/ewf8LsxYTtuarqZw8"

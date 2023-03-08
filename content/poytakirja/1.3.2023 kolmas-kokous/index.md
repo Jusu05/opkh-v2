@@ -49,10 +49,7 @@ päätösvaltaiseksi
     Stoalaisuus viikko.
     Pidetään kokous Anna Huhananttin kanssa.
     Tapahtuma tiimi kootaan.
-Teemapäivä 8.3. 
-    Pukeudu opettajaksi. 
+    Teemapäivä 8.3.
+    Pukeudu opettajaksi.
 7. Seuraavan kokouksen ajan päättäminen: Päätetään whatsApp:issa
 8. Kokouksen päättäminen - kokous päätettiin ajassa 16:51
-
-
-
