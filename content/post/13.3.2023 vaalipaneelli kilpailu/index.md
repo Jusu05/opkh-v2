@@ -18,6 +18,5 @@ image:
 ---
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfEyyyDmtIH4XltASMGkbeKHi6mu8Y_XpIRZ9ApGOPXLziDmw/viewform?embedded=true" width="640" height="1612" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 
-Tule tiistaina 21.3. ruokalaan seuraamaan vaalipaneelia!
-
-Panelistit julkaistaan hieman myöhemmin :)
+Osaatko ennustaa vaalipanelistien määrän? Arvaa! Oikein vastanneiden kesken arvotaan palkinto :)
+Lähetä vastauksesi ma 20.3. mennessä.
