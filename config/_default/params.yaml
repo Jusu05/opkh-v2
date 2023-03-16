@@ -41,7 +41,7 @@ address:
   city: Helsinki
   region: ''
   postcode: '00610'
-  country: Finland
+  country: Suomi
   country_code: FI
 coordinates:
   latitude: '60.210378'
@@ -64,6 +64,10 @@ contact_links:
     icon_pack: fab
     name: 'Hellun OPKH:n Instagram'
     link: 'https://instagram.com/hellu_opkh'
+    - icon: Youtube
+    icon_pack: fab
+    name: 'Hellun OPKH:n Youtube kanava'
+    link: 'https://www.youtube.com/channel/UCOU9UynKyFFVknD2-QG3lig'
 address_format: fi
 main_menu:
   align: l
