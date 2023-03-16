@@ -55,7 +55,7 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCOU9UynKyFFVknD2-QG3lig
-  label: Seuraa meitä IG:ssä!
+  label: Tilaa meidän Yuotube kanava
   display:
     header: true
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -83,7 +83,7 @@ highlight_name: false
 ---
 **Hellun OPKH:n virallinen nettisivusto!**
 
-Muistathan käydä seuraamassa meitä myös sosiaalisessa medioissa **[Instagramissa](https://instagram.com/hellu_opkh)** ja **[Youtubessa](https://www.youtube.com/channel/UCOU9UynKyFFVknD2-QG3lig)**
+Muistathan käydä seuraamassa meitä myös **[Instagramissa](https://instagram.com/hellu_opkh)** ja **[Youtubessa](https://www.youtube.com/channel/UCOU9UynKyFFVknD2-QG3lig)**
 
 <sub><sup>
 Helsingin luonnontiedelukio, opiskelijakunta, opiskelijakunnan hallitus, Hellun OPKH
