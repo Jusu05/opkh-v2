@@ -64,11 +64,11 @@ contact_links:
     icon_pack: fab
     name: 'Hellun OPKH:n Instagram'
     link: 'https://instagram.com/hellu_opkh'
-    - icon: Youtube
+  - icon: youtube
     icon_pack: fab
     name: 'Hellun OPKH:n Youtube kanava'
     link: 'https://www.youtube.com/channel/UCOU9UynKyFFVknD2-QG3lig'
-address_format: fi
+address_format: fi  
 main_menu:
   align: l
   show_logo: true
