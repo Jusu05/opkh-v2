@@ -17,7 +17,3 @@ design:
     padding: ["0px", "0", "0px", "0"]
 ---
 
-<center>
-Sähköpostit ovat muotoa:
-etunimi.sukunimi@edu.hel.fi
-</center>

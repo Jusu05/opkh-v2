@@ -4,5 +4,3 @@ type: widget_page
 title: Tiimi
 ---
 
-Sähköpostit ovat muotoa:
-etunimi.sukunimi@edu.hel.fi
