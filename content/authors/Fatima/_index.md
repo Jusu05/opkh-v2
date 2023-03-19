@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Viestitätiimi
+- Viestintätiimi
 ---
 Hejssan!! Nimeni on Fatima ja olen 21A luokalta. Koulussa minut löytää usein haahuilemasta käytävillä tai pingispöydän ääreltä. Vapaa-ajallani luen kirjoja, leivon kaikkea jänskää ja vietän aikaa perheen kanssa.
 
