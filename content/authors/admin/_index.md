@@ -55,7 +55,7 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCOU9UynKyFFVknD2-QG3lig
-  label: Tilaa meidän Yuotube kanava!
+  label: Tilaa meidän Youtube kanava!
   display:
     header: true
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
