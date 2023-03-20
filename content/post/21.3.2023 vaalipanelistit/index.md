@@ -22,4 +22,23 @@ Huomenna tiistaina 21.3. klo 13.30 pidetään ruokalassa vaalipaneeli. Tässä p
 
 Paneelin striimiin pääset tästä linkistä [Striimi](/vaalipaneeli-striimi-2023)
 
+Panelistit:
+Gashaw Bibani, Vasemmistoliitto
+
+Hussein al-Taee, Sosialidemokraatit
+
+Atte Harjanne, Vihreät
+
+Otto Suhonen, Keskusta
+
+Marjo Vacker, Liike nyt
+
+Eva Biaudet, Ruotsalainen kansanpuolue
+
+Loviisa Kaartokallio, Kristillisdemokraatit
+
+Anssi Aura, Kokoomus
+
+Sebastian Tynkkynen, Perussuomalaiset
+
 Arvasitko panelistien määrän oikein? Arvauskisan voittajat ilmoitetaan 22.3. opkh:n Instagramissa.
