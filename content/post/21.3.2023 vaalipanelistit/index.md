@@ -1,5 +1,5 @@
 ---
-title: Vaalipaneelistit
+title: Vaalipanelistit
 subtitle: 
 date: 2023-03-20T21:26:46+04:00
 show_date: true
@@ -7,7 +7,7 @@ draft: false
 featured: false
 authors:
   - Juuso
-url: /vaalipaneeli-2023
+url: /vaalipanelistit-2023
 categories:
   - post
 image:
