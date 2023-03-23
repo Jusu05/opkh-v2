@@ -2,7 +2,7 @@
 title: 2. kokous 8.2.2023
 subtitle: 
 date: 2023-02-08T15:33:00.063Z
-summary: "Kolmas kokous 8.2.2023"
+summary: "Toinen kokous 8.2.2023"
 draft: false
 featured: false
 image:
