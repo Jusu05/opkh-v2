@@ -24,6 +24,11 @@
   weight = 32
 
 [[main]]
+  name = "Ruokalista"
+  url = "#ruokalista"
+  weight = 33
+
+[[main]]
   name = "Meistä"
   url = "/meista"
   weight = 45

@@ -34,23 +34,30 @@ päätösvaltaiseksi
         ruokalistalle oma välilehti
         lisätään kuvat ja esittelyteksti sivuille
         Lähetetään Juusolle sähköpostilla juuso.kosonen@edu.hel.fi
+
     4.2. Yhteydenottolomakkeen päivitys
         Luodaan Formspree-tili ja yhdistetään se nettisivuille
+
     4.3. Palautelomakkeen päivitys
         Palautelomake tehdään forms-kyselynä
+
     4.4. GDPR-lomakkeen päivitys
         Laitetaan lomakkeeseen nimeksi Sanni Seppälä
         Lomakkeessa ilmoitettuun henkilöön otetaan yhteyttä, jos joku on poistamassa
         sivuilta tietoa
+
     4.5. Helluradion biisilista/kysely
         Laitetaan postaus siitä, että nollataan lista, koska se on liian pitkä.
         Jatkossa laitetaan vuosiluokka listaan.
         Ilmoitetaan, että nyt voi laittaa uusia ehdotuksia Instagramiin
+
     4.6. (Paremman kommentointijärjestelmän käyttöönotto)
         Kommenttikenttä pois. Laitetaan Instagram kommentit, jos mahdollista.
+
     4.7. (Uudistetun nettisivun suunnittelua paperille piirtämällä)
         Otetaan vastaan ehdotuksia halukkailta, mutta ei muuten lähdetä tekemään
         sille mitää
+
     4.8 Juuson lisääminen viestintätiimin ryhmään
 
 5. Muut esille tulevat asiat eli META:

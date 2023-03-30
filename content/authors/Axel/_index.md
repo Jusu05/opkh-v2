@@ -63,3 +63,6 @@ highlight_name: false
 user_groups:
 - Tapahtumatiimi
 ---
+Tervehdys,
+
+Axel Parola tässä tapahtumavastaavien tiimistä, tuu kertoo jos haluut jotain hullua meininkiä helluun!
