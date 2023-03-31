@@ -64,3 +64,4 @@ highlight_name: false
 user_groups:
 - Varapuheenjohtaja
 ---
+Moikkuu, oon Amina Awad 21F luokalta & toimin varapuheenjohtana. Mun vastuu alueeseen kuuluu vetää tiimiä sillonku Pj ei pysty, muuten vaa autella kaikis jutuis & vetää tapahtumatiimiä :) Mua voi tulla kiskasee hihast jos on jotain tapahtuma idiksii tai ylipäätää kysyy jotain OPKH:n toiminnasta<33
