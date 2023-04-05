@@ -7,7 +7,7 @@ summary: Tervetuloa tapahtumatiimiin! Pääset ideoimaan, suunnittelemaan ja tot
 draft: false
 featured: false
 authors:
-  - tony
+  -Tony lam
 url: /tapahtumatiimi
 categories:
   - post

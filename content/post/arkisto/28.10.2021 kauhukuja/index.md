@@ -7,7 +7,7 @@ summary:
 draft: false
 featured: false
 authors:
-  - tony
+  -Tony lam
 url: /kauhukuja
 categories:
   - post

@@ -7,7 +7,7 @@ summary: Opiskelijoiden järjestämässä laskupajassa saat apua matematiikan te
 draft: false
 featured: false
 authors:
-  - tony
+  -Tony lam
 url: /matikkapaja
 categories:
   - post

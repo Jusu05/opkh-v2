@@ -9,7 +9,7 @@ subtitle: On aika pienelle juhlalle ja viihteelle, kun YO-kokeet loppuvat ja per
 draft: false
 featured: false
 authors:
-  - tony
+  -Tony lam
 url: /teema
 categories:
   - post

@@ -7,7 +7,7 @@ summary: Tervetuloa matematiikkakerhoon! Kerhon tarkoitus on yhdistää matemati
 draft: false
 featured: false
 authors:
-  - tony
+  -Tony lam
 url: /matikkakerho
 categories:
   - post

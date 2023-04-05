@@ -6,7 +6,7 @@ show_date: true
 draft: false
 featured: false
 authors:
-  - tony
+  -Tony lam
 url: /kulttuuri
 categories:
   - post

@@ -7,7 +7,7 @@ summary: Perjantai päättää halloweenin teemaviikon, joten panostetaan vielä
 draft: false
 featured: false
 authors:
-  - tony
+  -Tony lam
 url: /perjantai
 categories:
   - post

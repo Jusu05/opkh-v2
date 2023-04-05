@@ -6,7 +6,7 @@ show_date: true
 draft: false
 featured: false
 authors:
-  - tony
+  -Tony lam
 url: /ari-paiva
 categories:
   - post

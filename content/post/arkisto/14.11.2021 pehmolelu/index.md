@@ -7,7 +7,7 @@ summary: Päivän teemana on pehmolelut, joten tuothan kouluun mukanasi yhden ta
 draft: false
 featured: false
 authors:
-  - tony
+  -Tony lam
 url: /pehmolelu
 categories:
   - post

@@ -7,7 +7,7 @@ summary:
 draft: false
 featured: false
 authors:
-  - tony
+  -Tony lam
 url: /eireppua
 categories:
   - post
