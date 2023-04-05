@@ -23,8 +23,8 @@ content:
   - Puheenjohtaja
   - Varapuheenjohtaja
   - Taloudenhoitaja
-  - Sihteeri
   - Taloustiimi
+  - Sihteeri
   - Viestintätiimi
   - SLL-vastaava
   - Tapahtumatiimi
