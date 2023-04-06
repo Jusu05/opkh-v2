@@ -6,7 +6,7 @@ date: 2021-02-19
 draft: false
 featured: false
 authors:
-  -Tony lam
+  - Tony Lam
 categories: ["post"]
 
 image:

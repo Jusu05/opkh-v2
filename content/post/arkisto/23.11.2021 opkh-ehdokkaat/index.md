@@ -7,7 +7,7 @@ summary: Opiskelijakunnan hallitus vuodelle 2022 valitaan vaaleilla.
 draft: false
 featured: false
 authors:
-  -Tony lam
+  - Tony Lam
 url: /opkh-ehdokkaat
 categories:
   - post

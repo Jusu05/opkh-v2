@@ -7,7 +7,7 @@ summary: Helppoa kuin heinän teko!
 draft: false
 featured: false
 authors:
-  -Tony lam
+  - Tony Lam
 url: /wilma
 categories:
   - post

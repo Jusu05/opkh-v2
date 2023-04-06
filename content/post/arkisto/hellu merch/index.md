@@ -5,7 +5,7 @@ date: 2022-01-19
 draft: false
 featured: false
 authors:
-  -Tony lam
+  - Tony Lam
 categories: ["post"]
 image:
   focal_point: Smart

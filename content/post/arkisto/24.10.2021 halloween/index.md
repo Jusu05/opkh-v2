@@ -7,7 +7,7 @@ summary: Tervetuloa viettämään hyytäviä Halloweenhupeja Helluun! OPKH on ju
 draft: false
 featured: false
 authors:
-  -Tony lam
+  - Tony Lam
 url: /helluween
 categories:
   - post

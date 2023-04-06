@@ -7,7 +7,7 @@ summary: Osallistu OPKH:n tiimiin, jossa suunnitellaan logo painettavaksi Hellun
 draft: false
 featured: false
 authors:
-  -Tony lam
+  - Tony Lam
 url: /logo
 categories:
   - post

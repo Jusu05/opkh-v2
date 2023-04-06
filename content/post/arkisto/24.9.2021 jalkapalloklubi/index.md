@@ -6,7 +6,7 @@ summary: Kaikki jalkapallosta kiinnostuneet ovat tervetulleita mukaan!
 draft: false
 featured: false
 authors:
-  -Tony lam
+  - Tony Lam
 url: /futis
 categories:
   - post

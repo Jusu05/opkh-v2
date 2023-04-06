@@ -7,7 +7,7 @@ summary: Oletko kiinnostunut poliitikasta tai tieteistä? Omaatko vahvoja mielip
 draft: false
 featured: false
 authors:
-  -Tony lam
+  - Tony Lam
 url: /vaittelykerho
 categories:
   - post

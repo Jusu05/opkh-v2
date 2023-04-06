@@ -6,7 +6,7 @@ show_date: true
 draft: false
 featured: false
 authors:
-  -Tony lam
+  - Tony Lam
 url: /teemaviikko-22
 categories:
   - post
