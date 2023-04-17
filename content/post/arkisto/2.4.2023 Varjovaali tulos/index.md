@@ -1,6 +1,6 @@
 ---
-title: Hellun varjo vaalituolos 2023
-summary: Hellun varjovaali tulokset
+title: Hellutalent
+summary: Ilmoittaudu mukaan
 date: 2023-04-02T00:21:22+08:00
 draft: false
 featured: false
@@ -13,7 +13,7 @@ categories: ["post"]
 image:
   focal_point: Smart
   preview_only: true
-url: "/varjovaali-tulos-2023"
+url: "/hellutalent-2023"
 ---
 ### Pylväs kaavio
 
