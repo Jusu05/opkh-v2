@@ -63,3 +63,6 @@ highlight_name: false
 user_groups:
 - Viestintätiimi
 ---
+Mun erikoisosaamisia on viestintä, väittely ja vallankaappaukset.
+Oon tehny viestintää useelle eri taholle ja on kivaa että pääsen tekemään sitä myös opkh:lle.
+Mut tunnistaa mun erikoisesta tyylitajusta ja energisyydestä. Tuu juttelee jos on asiaa viestinnästä tai ihan muuten vaan :)
