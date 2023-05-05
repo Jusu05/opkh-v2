@@ -18,7 +18,7 @@ url: "/kolmas-kokous-2023"
 Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 1.3.2023
 Pöytäkirja
 
-Läsnäolijat: Makkonen Jesse, Seppälä Sanni , Putus IIvo, Silander Camilla, Hassan Fatima, Lintula Oskari, Miettunen Teresa, Vatka Vilho.
+Läsnäolijat: Makkonen Jesse, Seppälä Sanni , Putus Iivo, Silander Camilla, Hassan Fatima, Lintula Oskari, Miettunen Teresa, Vatka Vilho.
 
 1. Kokouksen avaus - kokous avattiin ajassa 15:41
 2. Kokouksen laillisuus ja päätösvaltaisuus - kokous todettiin lailliseksi ja
