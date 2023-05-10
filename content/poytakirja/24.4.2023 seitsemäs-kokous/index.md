@@ -1,7 +1,7 @@
 ---
 title: 7. kokous 24.4.2023
 subtitle: 
-date: 2023-02-25T14:44:51.063Z
+date: 2023-04-25T14:44:51.063Z
 summary: "Seitsemäs kokous 24.4.2023"
 draft: false
 featured: false

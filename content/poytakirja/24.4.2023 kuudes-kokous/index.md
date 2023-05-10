@@ -1,7 +1,7 @@
 ---
 title: 6. kokous 12.4.2023
 subtitle: 
-date: 2023-02-12T14:39:00.063Z
+date: 2023-04-12T14:39:00.063Z
 summary: "Kuudes kokous 12.4.2023"
 draft: false
 featured: false
