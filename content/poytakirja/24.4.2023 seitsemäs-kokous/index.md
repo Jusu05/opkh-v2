@@ -1,7 +1,7 @@
 ---
 title: 7. kokous 24.4.2023
 subtitle: 
-date: 2023-02-01T12:14:51.063Z
+date: 2023-02-25T14:44:51.063Z
 summary: "Seitsemäs kokous 24.4.2023"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/eka-kokous-2023"
+url: "/seitsemas-kokous-2023"
 ---
 ## Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 25.4.2023 Pöytäkirja
 
