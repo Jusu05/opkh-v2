@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Ruokalista"
-  url = "#ruokalista"
+  url = "/#ruokalista"
   weight = 33
 
 [[main]]
