@@ -1,7 +1,7 @@
 ---
-title: 8. kokous 1.2.2023
+title: 8. kokous 10.5.2023
 subtitle: 
-date: 2023-04-10T14:33:00.003Z
+date: 2023-05-10T14:33:00.003Z
 summary: "Kahdeksas kokous 10.5.2023"
 draft: false
 featured: false
