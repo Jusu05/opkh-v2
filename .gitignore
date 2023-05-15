@@ -5,3 +5,7 @@
 /resources/
 public/
 jsconfig.json
+
+# Local Netlify folder
+.netlify
+.gitignore

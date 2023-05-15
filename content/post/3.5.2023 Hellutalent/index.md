@@ -1,6 +1,6 @@
 ---
-title: Hellutalent 3.5.
-summary: Ilmottaudu mukaan
+title: 16.5. ja 17.5. Lukuvuoden viimeiset teemapäivät
+summary: 16.5. dress as your type, 17.5. pukeudu pinkkiin
 date: 2023-04-17T10:48:22+08:00
 draft: false
 featured: false
@@ -13,9 +13,11 @@ categories: ["post"]
 image:
   focal_point: Smart
   preview_only: false 
-url: "/hellutalent-2023"
+url: "/Viimeiset-teemapaivat-2023"
 ---
 
-Onko sinulla jokin kyky, jonka haluaisit näyttää muille? Hellutalentissa pääset esiintymään mahtavan yleisön sekä asiantuntevien tuomareiden edessä. Voittajille ja osallistujille luvassa palkinnot.
+Lukuvuoden viimeiset teemapäivät ovat tiistaina 16.5. ja keskiviikkona 17.5.
 
-Jos esiintyminen kiinnostaa, laita meille viestiä [Ig directissä](https://www.instagram.com/hellu_opkh/) <3
+Tiistain teemapäivä on dress as your type. Huomaako sun hellucrush kun oot kopioinu sen tyylin?
+
+Keskiviikkona laita päälle pinkkiä🌺
