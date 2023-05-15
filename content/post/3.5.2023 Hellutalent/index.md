@@ -1,7 +1,7 @@
 ---
 title: 16.5. ja 17.5. Lukuvuoden viimeiset teemapäivät
 summary: 16.5. dress as your type, 17.5. pukeudu pinkkiin
-date: 2023-04-17T10:48:22+08:00
+date: 2023-05-15T12:41:22+08:00
 draft: false
 featured: false
 authors:
