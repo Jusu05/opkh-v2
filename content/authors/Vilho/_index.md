@@ -39,7 +39,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:vilho.vatka@edu.hel.fi 
+  link: mailto:vilho.vatka@opkh.fi 
 #- icon: instagram
 #  icon_pack: fab
 #  link: 

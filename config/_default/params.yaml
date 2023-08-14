@@ -37,16 +37,16 @@ show_related:
 email: info@opkh.fi
 phone: ''
 address:
-  street: Mäkelänkatu 84
+  street: Piertari Kalmin katu 7
   city: Helsinki
   region: ''
-  postcode: '00610'
+  postcode: '00560'
   country: Suomi
   country_code: FI
 coordinates:
-  latitude: '60.210378'
-  longitude: '24.943564'
-directions: 'Työväenhuoneen löydät toisesta kerroksesta, luokka 225.'
+  latitude: '60.2037938'
+  longitude: '24.9599621'
+directions: 'Toisesta kerroksesta, luokkasta 217.'
 office_hours: []
 appointment_url: ''
 contact_links:
@@ -54,7 +54,7 @@ contact_links:
   #   icon_pack: fas
   #   name: Reittiohjeet Google Maps
   #   link: >-
-  #     https://www.google.com/maps/dir//Helsingin+luonnontiedelukio,+M%C3%A4kel%C3%A4nkatu+84,+00610+Helsinki/@60.2104756,24.9414611,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x469209961c9c2b83:0xfa195041d70b9d60!2m2!1d24.9436498!2d60.2104756
+  #   https://www.google.com/maps/place/Helsingin+luonnontiedelukio/@60.2037938,24.9599621,17z/data=!3m1!4b1!4m6!3m5!1s0x4692091229a9c8c9:0xc333ce4ffea0062a!8m2!3d60.2037938!4d24.9625424!16s%2Fg%2F11v0zm6qb6?entry=ttu
   # - icon: bus-alt
   #   icon_pack: fas
   #   name: Reittiohjeet HSL
