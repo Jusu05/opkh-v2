@@ -39,7 +39,7 @@ interests:
 social:
  - icon: envelope
    icon_pack: fas
-   link: mailto:fatimabushra.hassan@edu.hel.fi 
+   link: mailto:fatima.hassan@opkh.fi 
 # - icon: instagram
 #   icon_pack: fab
 #   link: 

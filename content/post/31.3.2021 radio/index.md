@@ -1,7 +1,7 @@
 ---
 title: Helluradio
 subtitle: Helluradioon ehdotuksia
-date: 2023-03-31T10:21:22+08:00
+date: 2023-08-18T12:57:55+08:00
 show_date: false
 summary: Helluradioon ehdotuksia
 draft: false
@@ -22,5 +22,5 @@ image:
 
 <br>
 
-Soitamme 5 kappaletta joka perjantai.  
+Soitamme noin 6 kappaletta joka perjantai.  
  (Pidämme oikeudet muutoksiin.)

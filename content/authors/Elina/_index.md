@@ -39,7 +39,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:elina.pyylampi@edu.hel.fi
+  link: mailto:elina.pyylampi@opkh.fi
 #- icon: instagram
 #  icon_pack: fab
 #  link: 
