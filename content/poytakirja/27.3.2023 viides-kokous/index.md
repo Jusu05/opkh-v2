@@ -12,7 +12,7 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/toka-kokous-2023"
+url: "/viides-kokous-2023"
 ---
 Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 29.3.2023
 Pöytäkirja
