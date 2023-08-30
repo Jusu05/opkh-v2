@@ -1,8 +1,8 @@
 ---
-title: 5. kokous 27.3.2023
+title: 11. kokous 30.8.2023
 subtitle: 
 date: 2023-03-27T14:43:00.063Z
-summary: "Viides kokous 27.3.2023"
+summary: "yhdestoista kokous 30.8.2023"
 draft: false
 featured: false
 image:
@@ -12,77 +12,87 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/viides-kokous-2023"
+url: "/yhdestoista-kokous-2023"
 ---
-Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 29.3.2023
-Pöytäkirja
+Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 30.8.2023
+pöytäkirja
 
-Läsnäolijat: Lintula Oskari, Makkonen Jesse,Al-hello Zahraa, Hassan Fatima, Miettunen Teresa, Putus Iivo, Pyylampi Elina, Seppälä Sanni, Vatka Vilho, Parola Axel Silander Camilla.
+Läsnäolijat: Lintula Oskari, Makkonen Jesse, Hassan Fatima, Al-hello Zahraa Miettunen Teresa, Putus Iivo, Seppälä Sanni, Vatka Vilho, Puukko Iiris, Katja Kultaranta.
 
-1. Kokouksen avaus - kokous avattiin ajassa 14:43
+
+1. Kokouksen avaus - kokous avattiin ajassa 14:48
 
 2. Kokouksen laillisuus ja päätösvaltaisuus - kokous todettiin lailliseksi ja
 päätösvaltaiseksi
 
-3. Kokouksen järjestäytyminen - kokouksen puheenjohtajana toimi Sanni Seppälä  ja sihteerinä Jesse Makkonen
-    3.1. Myönnetään puhe -ja läsnäolo-oikeudet
+3. Kokouksen järjestäytyminen - kokouksen puheenjohtajana toimi Jesse Makkonen  ja sihteerinä Jesse Makkonen.
+    3.1. Myönnetään puhe -ja läsnäolo-oikeudet.
+        Puukko Iiris, Katja Kultaranta.
 
-4. Käsiteltävät asiat
+4. Todetaan hallituksen taloudellinen tilanne: Ei voida todeta
 
-    4.1. Hellu merch.
+5. Käsiteltävät asiat
 
-    Lintula Oskari, Makkonen Jesse,Al-hello Zahraa,  Hassan Fatima, Miettunen Teresa, Putus Iivo, Pyylampi Elina, Vatka Vilho, Parola Axel ja Silander Camilla hoitaa merchin.
+5.1. Buffetti musikaaliin
+	
+    5.2. Ruutiraha
+	
+    5.3. OPKH-kaappi
 
-    Toiminta aloitetaan heti.
+	5.4. Portaat
+        Tehdään alustavat suuntanuolet
+            Iivo ja Oskari hoitaa
+	5.5. Fatiman ehdotukset
+	
+    5.6 Hellu Hunt
+	
+    5.7. Ruutirahat
+        Kyselyn tekeminen
+	
 
-    4.2. Varjovaalit.
+	
 
-    Tehdään forms kysely
+6. Muut esille tulevat asiat eli META
+    Teemaviikko
+    Myöhemmällä ajalla
+    Liikennevalopäivä
+        7.9.2023
 
-    Vain puolueet
+        Ilmoitetaan:
+            Viikkotiedote
+                Fatima
+        Whatsapp ryhmät
+            Iivo ja Zahraa 
+        Wilma viesti
+            Jesse
+        Instagram
+            Viestintätiimi
+            postaus ja muistutus
+    Joulukalenteri
+        Suunnitellaan
 
-    Viestintätiimi hoitaa
+    Helluween
+        Suunnitellaan
 
-    4.3. Water.
+    Toimintasuunnitelman viimeistely
+        Deadline 10.9
 
-    Lähdemme 10 hengen voimin.
+    päättöviikkon
+        päättöviikko OPKH:n ohjelmaa
+        11.10
+        Kulttuuripäivä
+            Vihreä Lippu mukaan
+        Vapaaehtoisia tekijöitä
+            Fatima ja Zahraa
+    Tapahtumat
+        Lista tapahtumista koko vuodelle eli vuosikellon uudistaminen
+        Deadlinen 15.9.2023
+    Ohjeet tapahtumille
+    Ohjeet tuleville OPKH:lle
+    Ohjeet eri pesteille
+        Deadline 22.9.2023
+    Puurojuhla video suunnittelun alla. 
+7. Seuraavan kokouksen ajan päättäminen: Päätetään myöhemmin
+8. Kokouksen päättäminen - kokous päätettiin ajassa 16:51 
 
-    Kyydit hoidetaan myöhemmin
 
-    4.4. Automaatit.
-
-    4.5. Ryhmäytymiset
-
-    Ruokaryhmis 26.4 14:30-16:30
-
-    4.6 OHR
-
-    Puhelimien kielto
-
-    Verryttely välitunti
-
-    OPHK:n vastuu uudessa rakennuksessa.
-
-    Välipala välitunteja lisää
-
-5. Muut esille tulevat asiat eli META:
-
-    Talent show vappuna
-
-    Suunnitellaan seuraavassa kokouksessa
-
-    Hellufest
-    Suunnitellaan seuraavassa kokouksessa
-
-    Ryhmäkuva
-    ylihuomenna 12:45
-
-    OPKH huppari
-    Kysytään Tikalta
-
-    Pääsiäismuna keruu
-    Suunnitellaan WhatsApp:ssa
-
-6. Seuraavan kokouksen ajan päättäminen: 12.4 14:30
-
-7. Kokouksen päättäminen - kokous päätettiin ajassa 15:59
