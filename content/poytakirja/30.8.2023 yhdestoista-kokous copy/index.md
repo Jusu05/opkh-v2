@@ -1,7 +1,7 @@
 ---
 title: 11. kokous 30.8.2023
 subtitle: 
-date: 2023-03-27T14:43:00.063Z
+date: 2023-08-30T14:43:00.063Z
 summary: "yhdestoista kokous 30.8.2023"
 draft: false
 featured: false
