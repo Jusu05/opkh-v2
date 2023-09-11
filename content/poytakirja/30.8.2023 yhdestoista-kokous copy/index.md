@@ -1,5 +1,5 @@
 ---
-title: 11. kokous 30.8.2023
+title: 12. kokous 6.9.2023
 subtitle: 
 date: 2023-09-06T15:15:00.063Z
 summary: "kahdestoista kokous 6.9.2023"
