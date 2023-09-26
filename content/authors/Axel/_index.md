@@ -65,4 +65,4 @@ user_groups:
 ---
 Tervehdys,
 
-Axel Parola tässä tapahtumavastaavien tiimistä, tuu kertoo jos haluut jotain hullua meininkiä helluun!
+Axel Parola tapahtumavastaavien tiimistä, tuu vetää hihasta jos kaipaat jotain menoa helluun!

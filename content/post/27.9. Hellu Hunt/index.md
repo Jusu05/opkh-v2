@@ -1,7 +1,7 @@
 ---
 title: Hellu Hunt 27.9.
 summary: Kuoluun on piilotettu lappuja, etsi (max. 3 lappua/hlö)
-date: 2023-09-24T11:18:13+08:00
+date: 2023-09-26T11:18:13+08:00
 draft: false
 featured: true
 authors:
