@@ -1,8 +1,8 @@
 ---
-title: 12. kokous 6.9.2023
+title: 14. kokous 25.10.2023
 subtitle: 
-date: 2023-09-06T15:15:00.063Z
-summary: "kahdestoista kokous 6.9.2023"
+date: 2023-10-25T15:15:00.063Z
+summary: "Neljästoista kokous 25.10.2023"
 draft: false
 featured: false
 image:
