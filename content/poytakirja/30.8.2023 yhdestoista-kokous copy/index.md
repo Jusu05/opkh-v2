@@ -12,106 +12,115 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/yhdestoista-kokous-2023"
+url: "/neljastoista-kokous-2023"
 ---
-  Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 30.8.2023
+Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 25.10.2023
 Pöytäkirja
 
-Läsnäolijat:  Amina Awad,  Lintula Oskari, Makkonen Jesse, Hassan Fatima, Al-hello Zahraa Miettunen Teresa, Putus Iivo, Vatka Vilho, Axel Parola 
+Läsnäolijat: Amina Awad  Lintula Oskari, Makkonen Jesse, Hassan Fatima, Miettunen Teresa, Putus Iivo, Vatka Vilho, Axel Parola ja Sanni Seppälä.
 
 
-
-
-
-
-1. Kokouksen avaus - kokous avattiin ajassa 15:15
+1. Kokouksen avaus - kokous avattiin ajassa 13:11
 2. Kokouksen laillisuus ja päätösvaltaisuus - kokous todettiin lailliseksi ja
 päätösvaltaiseksi
-3. Kokouksen järjestäytyminen - kokouksen puheenjohtajana toimi Amina Awad  ja sihteerinä Jesse Makkonen
-    3.1. Myönnetään puhe -ja läsnäolo-oikeudet.
-4. Todetaan hallituksen taloudellinen tilanne: 3265,55€
+3. Kokouksen järjestäytyminen - kokouksen puheenjohtajana toimii Sanni Seppälä ja sihteerinä Jesse Makkonen
+        
+        3.1. Myönnetään läsnäolo-oikeudet.
+        Nasriin Ahmed, Javeria Malik ja Mahdi Khan 
+4. Todetaan hallituksen taloudellinen tilanne: 3140,63€
+
 5. Käsiteltävät asiat
-    
-    5.1. Buffetti musikaaliin
-        2.11.2023
-        Buffet ryhmä
-        Kysytään musiikin opettajilta tarkempia ohjeita
-	
-    5.2. Ruutiraha
-        - Ideat kyselystä: 
-            - Ilmainen välipala
-            - Oppilaille joku retki?
-            - Teema-kulttuuri ja juhlapäivät 
-            -   Peli-iltoja 
-            -  Taloustiimi kysyy UniSportista mahdollista diiliä opiskelijoille 
+       
+    5.1. OPKH video 
 
-	5.3. OPKH-kaappi  
-        Jesse Makkosella ja Sanni Seppälällä on avaimet neuvottelutilassa olevaan kaappiin
-        Zahraa Al-Hellolla on yhteisöllisen tilan kaappiin avain.
-	
-    5.4. Portaat
-        Nuolet ja teippiä
-        Oskari Lintula ja Iivo Putus hoitavat
+        3 OPKH videota ulkopuolisille tukijoille, 25€   
+        lahjakorttia S-ryhmälle.
+        Budjetti noin 150€
 
-	5.5. Fatiman ehdotukset
-        Ykkösille ryhmäytystä
-        väri pukeutuminen 
-        palkinnot
-        Fatima, Zahraa, Jesse ja Iivo
-        Meemit
-        Opiskelijoilta
-        YO-preppausta
-        selvemmät ohjeet opiskelijoille 
-        Rubikin-kuutio kilpailu
-	
-    5.6 Hell Hunt
-        ke 27.9.    
-        Hellu Hunt  ja teemapäivä yhdistetään 
-        Kysytään jos meidän koulussa kirjoitetaan Saame, jos ei niin sillon Hellu Hunt 
-        Teemana pehmolelut Piilotetaan nalleja ja teemapäivänä on ottaa pehmolelu kouluun 
-        Ostetaan palkinnot 
+        
+    5.2. OPKH hupparit
 
-	5.7. Palautekysely 
-        -  62,2% sano “ihan hyvä”   & 20,5% sano “tökkii”
-        - Parantaa viestintää esim. tutorit kertovat tapahtumista ykkösille, wilma ja ajoissa ilmoittaminen someen.
-        -  Kansanäänestys, eli opiskelijat päättävät mikä teemapäivä 
-                 
-	5.8. Tapahtumat
-        Kulttuuripäivä
-        Tapahtumapäivänä 
-        Kulttuuripäiväryhmä hoitaa
-        Kulttuurikahvila?
-        Hellu Hunt + teemapäivä samassa
-        Helluween 
-        31.10.2023
-        Kurpitsan kaivertaminen
-        Kauhurata
-        Pukukilpailu
-        Palkinnot
-        Koristelu
-        Ajoissa
+        Äänestetään Whatsapp:ssa hupparin designista
 
-	5.9. Toimintasuunnitelma
-        Hallinto hoitaa
+    5.3. Käsikirja
 
-	5.10. Oskarin elokuvailta 
-        Ryhmään kysely
+        Oskari ja Jesse saa kunnia kirjoittaa käsikirjan 
+        uudestaan. 
+
+    5.4. Yhdistys
+        
+        Jesse, Oskari ja Fatima tutkivat tukija 
+        yhdistykset salaisuudet.
+
+    5.5. Helluween
+        
+        Pidetään tiistaina 31.10.2023
+        
+        Pukukilpailu (voittaja päätetään Instagramissa)
+        palkintona Halloween-aiheista karkkia
+        
+        Kurpitsan kaiverrus -kilpailu, kuvataan 
+        
+        Instagramiin ja siellä valitaan voittaja, 
+        voittaja saa palkintona Halloween-aiheista karkkia
+        kysely osallistujista ja sen mukaan kurpitsojen 
+        hankinta
+        pidetään noin klo: 12.45
+        juontaja: Axel, kuvaaja
+        otetaan Sannan apu vastaan
+        
+        Koristellaan koulu maanantaina 30.10
+        ostetaan koristeita tarpeen mukaan
+        Kauhukäytävä kellariin
+        tekeminen aloitetaan torstaina, jos mahdollista
+        Radio, jos saadaan
+
+
+    5.6. Vanhempain kahvio
+                
+                6.11.2023
+                Fatima ja Zahraa leipovat
+                varmistus, onko sallittua (Amina 
+                selvittää)
+                Oskari, (Sanni) ja Jesse myyvät
+                Pyydetään keittiöltä kahvinkeittimet
+
+    5.7. Fatiman hiillostaminen vol. 2.
+            
+            Fatima informoi opettajia yo-kokeiden 
+            lukemisen paremmasta ohjeistamisesta.
+            LUMA-viikolla rubiikinkuutio-kilpailu
+
+    5.8. Koulun vihkiäiset
+            
+            2.11.2023 klo: 14.00, tulkaa paikalle
+
+    5.9. Jotain teemapäiviä
+            
+            6.11 alkavalla viikolla (ke, to, pe)
+            On wednesday we wear pink (ke)
+            Gender blender (to)
+            Business formal (pe)	
+            Viestintätiimi laittaa postauksen 2.11 
+            Instagramiin
+            Viikkotiedotteeseen. 
+
+    5.10. OPKH@OPKH.fi
+        
+            Hellu@OPKH.fi
+            Hyväksytään.
+
+    5.11. Buffet musikaaliin
+        
+            Ei tehdä.
+
+    5.12. Ruutiraha
+        
+            Tarvikkeita (biljardipöytä, lautapelejä, 
+            frisbeegolfkori, viherkasveja, pingismailat, 
+            palkinnot)
+            Teresa, Oskari ja muut kiinnostuneet hoitavat
 
 6. Muut esille tulevat asiat eli META
-    
-    Esittäytyminen Digiopolla
-        Tiistain 4. tunti, keskiviikon 1. tunti tai perjantain 2.tunti
-        Tarkistetaan opoilta
-
-    Hellu bingo palkinnot
-        Kysytään luokalta vaihtoehtoisista ruokavaliosta
-        Hellu bingon pitäjät kysyvät
-
-    Merch update
-        Habituran kautta
-        Merch ryhmä edistää asiaa
-7. Seuraavan kokouksen ajan päättäminen: whatsappin kautta
-8. Kokouksen päättäminen - kokous päätettiin ajassa 17:08
-
-
-
+7. Seuraavan kokouksen ajan päättäminen: Whatsapp:ssa
+8. Kokouksen päättäminen - kokous päätettiin ajassa 14.50.
