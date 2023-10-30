@@ -3,7 +3,7 @@ title: Kultuuripäivä 11.9.
 summary: Lisätietoa kulttuuripäivän tapahtumasta tulee myöhemmin!
 date: 2023-09-22T11:18:13+08:00
 draft: false
-featured: true
+featured: false
 authors:
   - Juuso
 categories: ["post"]
