@@ -1,8 +1,8 @@
 ---
-title: 15. kokous 15.11.2023
+title: 16. kokous 15.11.2023
 subtitle: 
-date: 2023-05-15T16:13:21.003Z
-summary: "Viidestoista kokous 15.11.2023"
+date: 2023-11-15T16:13:21.003Z
+summary: "Kuudestoista kokous 15.11.2023"
 draft: false
 featured: false
 image:
@@ -12,7 +12,7 @@ image:
 
 categories: ["kirja"]
 authors: ["admin"]
-url: "/viidestoista-kokous-2023"
+url: "/kuudestoista-kokous-2023"
 ---
 
 ## Helsingin Luonnontiedelukion opiskelijakunnan hallituksen kokous 15.11.2023
