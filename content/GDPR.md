@@ -12,19 +12,19 @@ header:
   image: ""
 url: "/gdpr"
 ---
-Tämä on Helsingin luonnontiedelukion opiskelijakunnan EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri-ja tietosuojaseloste. Laadittu 9.2.2021 Viimeisin muutos 8.2.2023.
+Tämä on Helsingin luonnontiedelukion opiskelijakunnan EU:n yleisen tietosuoja-asetuksen (GDPR) mukainen rekisteri-ja tietosuojaseloste. Laadittu 9.2.2021 Viimeisin muutos 1.2.2024.
 
 ### 1. Rekisterinpitäjä
 
 Helsingin luonnontiedelukion opiskelijakunta  
-Mäkelänkatu 84, 00610 Helsinki  
+Pietari Kalmin Katu 7, 00560 Helsinki  
 info@opkh.fi
 
 ### 2. Rekisteristä vastaava yhteyshenkilö
 
-Opiskelijakunnan puheenjohtaja
-Sanni seppälä
-sanni.seppala@opkh.fi
+Opiskelijakunnan viestintävastaava
+Mikki Loppanen 
+Loponenmikki@gmail.com
 toimii myöskin tietosuojavastaavana.
 
 ### 3. Rekistereiden nimet

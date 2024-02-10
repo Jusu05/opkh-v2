@@ -1,6 +1,6 @@
 ---
 # An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+# Documentation: https://https://docs.hugoblox.com/
 widget: people
 
 # This file represents a page section.
